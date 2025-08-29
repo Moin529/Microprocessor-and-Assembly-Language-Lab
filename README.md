@@ -9,12 +9,15 @@ Installation Process
 4. Open terminal and type:
 
     cd nasm-X.XX.XX
+   
     ./configure
+   
     make
+   
     sudo make install
    
 
-5. Now check the version to verify installation:
+6. Now check the version to verify installation:
    
     nasm --version
    
@@ -28,6 +31,8 @@ How to run code ?
 2. Open terminal and type:
   
    Assemble : nasm -f elk64 filename.asm -o filename.o
+   
    Link : gcc -no-pie -o filename filename.o
+
    Run : ./filename
    
