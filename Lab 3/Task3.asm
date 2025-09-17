@@ -1,3 +1,5 @@
+; Scan three variables a, b, and c. Print the value of the maximum of the three numbers.
+
 extern printf
 extern scanf
 
