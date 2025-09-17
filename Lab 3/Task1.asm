@@ -1,3 +1,5 @@
+; Scan two variables a and b. Print the value of their GCD
+
 extern printf
 extern scanf
 
