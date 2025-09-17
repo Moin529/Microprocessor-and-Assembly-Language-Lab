@@ -1,3 +1,5 @@
+; Scan a variable x. Print if it is prime or not
+
 extern printf
 extern scanf
 
