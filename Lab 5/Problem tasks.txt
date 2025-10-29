@@ -1,0 +1,19 @@
+Sample task:
+Write an x86-64 assembly program using NASM syntax that determines whether an input string is a palindrome (reads the same forward and backward).
+
+Task 1 :
+Write a NASM program that takes two integers as input, passes them to a function sum, and prints their sum.
+
+Task 2 :
+Write a NASM program that reads two integers, calls a function max_of_two, and prints the larger number.
+
+Task 3 :
+Write a NASM program that reads a string, reverses it using a function reverse_str, and prints the reversed string.
+
+Task 4 :
+Write a NASM program that performs and on two matrices of the same size.
+
+Task 5:
+Write a NASM program that takes a student’s name (string), three exam scores (integers), and computes: 
+    (i)The average score (float), 
+    (ii) The corresponding letter grade (P/F), and prints a formatted output line. Above 50% marks is P.
