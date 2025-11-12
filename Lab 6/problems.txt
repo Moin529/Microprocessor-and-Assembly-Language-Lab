@@ -1,0 +1,27 @@
+1. Write a function countFrequency that takes an array of integers and returns a new array of pairs, where each pair contains a unique number and its frequency.
+Input: The first line contains an integer n — the size of the array. The second line contains n integers representing the elements of the array.
+Output: pairs of numbers, where each pair consists of a unique number followed by its frequency. The pairs must be printed in ascending order of the unique numbers—one pair per line.
+
+
+###
+
+
+2. Write a function rotateArray that rotates an array to the right by k positions. For example, rotating [1, 2, 3, 4, 5] by 2 positions results in [4, 5, 1, 2, 3].
+Input: The first line contains two integers n and k — the size of the array and the number of positions to rotate. The second line contains n integers representing the elements of the array.
+Output: Print the array after it has been rotated to the right by k positions—one item per line.
+
+
+###
+
+
+3. Write a program that takes an array of integers and a threshold value. Create a function averageAboveThreshold that returns the average of all elements greater than the threshold. If no such element exists, return 0.
+Example:
+Input: arr = [4, 9, 2, 10, 7], threshold = 5  
+Output: 8.67
+Input
+The first line contains two integers n and threshold — the size of the array and the threshold value.
+The second line contains n integers representing the elements of the array.
+
+Output
+Print the average of all elements greater than the threshold, rounded to two decimal places.
+If no elements exceed the threshold, print 0.
